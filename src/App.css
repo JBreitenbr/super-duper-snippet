@@ -1,0 +1,17 @@
+* {
+  margin:0;
+  padding:0;
+}
+.b1{
+  /*margin-left: 50px;*/
+  background-color: #4CAF50;
+}
+
+.b2{
+  /*margin-left: 200px;*/
+  background-color: #ff0000;
+}
+.b3 {
+  /*margin-left: 350px;*/
+  background-color: #0000ff;
+}
